@@ -6,4 +6,4 @@ The link to the Jupyter Notebook: [Link](https://github.com/Kooroshoo/Aerial-Cac
 The Dataset
 - Gotten from Kaggle
 - Resolution of 32 x 32 images of cactus plant for classification.
-- The code is written in Python and the we used keras as backend.
+- The code is written in Python and the we used Keras as our framewok.

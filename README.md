@@ -7,4 +7,9 @@ The Dataset
 - Gotten from Kaggle
 - Resolution of 32 x 32 images of cactus plant for classification.
 
+![image](https://user-images.githubusercontent.com/26629624/86628247-eafcf700-bfc9-11ea-82d5-8a584bfc46a0.png)
+
+#
+This project was part of the course Deep Learning offered in University of Trento
+
 The code is written in Python and we used Keras as our framewok.

@@ -1,6 +1,8 @@
 # Aerial-Cactus-Identification-using-VGGNet
 In this project we created an algorithm that can identify specific type of cactus in aerial imagery. So basically classifying cactus and non cactus images using VGGNet-16 architecture.
 
+![image](https://user-images.githubusercontent.com/26629624/86628463-37483700-bfca-11ea-8c76-ecf99aa75c31.png)
+
 The link to the Jupyter Notebook: [Link](https://github.com/Kooroshoo/Aerial-Cactus-Identification-using-VGGNet/blob/master/vgg16_transfer_learning.ipynb)
 
 The Dataset
